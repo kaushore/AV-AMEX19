@@ -1,4 +1,7 @@
 # AV-AMEX19
+install jupyter notebook on ubuntu 18.04 with python3
+sudo apt install python3-notebook jupyter jupyter-core python-ipykernel 
+
 Analytics Vidhya's ML competittion ~~ AMEX - 19 
 
 
